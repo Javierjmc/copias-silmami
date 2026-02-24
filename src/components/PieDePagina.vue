@@ -55,7 +55,7 @@
 
 <script setup>
 import { defineProps } from 'vue'
-import ws from '../assets/iconoWhatsapp.png'
+import ws from '../assets/icono-whatsapp.png'
 import face from '../assets/face.png'
 import tiktok from '../assets/tiktok.png'
 import ig from '../assets/ig.png'
