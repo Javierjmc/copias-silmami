@@ -9,9 +9,7 @@ import { RouterLink } from 'vue-router'
       <div class="w-1/2 flex flex-col gap-8 items-end">
         <p class="text-3xl font-semibold text-end">
           “En Copias Silmami C.A, nos comprometemos a brindar soluciones integrales de fotocopiado,
-          papelería y apoyo en tareas escolares para nuestros clientes” “En Copias Silmami C.A, nos
-          comprometemos a brindar soluciones integrales de fotocopiado, papelería y apoyo en tareas
-          escolares para nuestros clientes”
+          papelería y apoyo en tareas escolares para nuestros clientes”
         </p>
         <RouterLink
           to="/conocenos"
